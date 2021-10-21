@@ -1,2 +1,2 @@
-# WordPress__Themes__CalemTrasteros
+# WordPress Theme: CalemTrasteros
 Custom theme for calemtrasteros.es.
